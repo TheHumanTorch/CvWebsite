@@ -65,7 +65,7 @@ div h1{
 }
 
 .saqali {
-	width: 340px;
+	width: 240px;
     height: 200px;
 }
 
@@ -85,11 +85,12 @@ div h1{
    		display:inline-block;
   }
 
-  .me{
-  	float: right;
-    margin: 0 0 10px 10px;
-}
-  }
+  .left {
+    position:absolute;
+    left:8; top:92px; bottom: 0;
+    width: 200px;
+
+
 
 
 
