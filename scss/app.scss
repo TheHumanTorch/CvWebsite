@@ -90,6 +90,41 @@ div h1{
     left:8; top:92px; bottom: 0;
     width: 200px;
 
+  aside{
+      float:left;
+  }
+
+  .bio{
+  margin-top: 100px;
+  }
+
+  .off-canvas position-left reveal-for-large{
+          margin-left: 50%;
+  }
+
+  .callout primary{
+   width: 70%;
+  }
+
+
+  .parallax {
+    /* The image used */
+    background-image: url("http://image.shutterstock.com/z/stock-vector-lol-87079871.jpg");
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
+
 
 
 
